@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @russellcaragay!
-- 🏫 Currently, I'm a Fourth Year Computer Engineering Student
+- 🏫 Currently, a Fourth Year Computer Engineering Student
 - 👀 I’m interested in Programmig
 - 🌱 I’m currently learning Web Development
 - 📫 You can reach me at caragayrussell@gmail.com 
