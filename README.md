@@ -2,6 +2,7 @@
 - 🏫 Currently, a Fourth Year Computer Engineering Student
 - 👀 I’m interested in Programmig
 - 🌱 I’m currently learning Web Development
+- 🌐 You can check my portfolio here: https://russellcaragay.github.io/portfolio-website/
 - 📫 You can reach me at caragayrussell@gmail.com 
 
 <!---
