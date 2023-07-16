@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russellcaragay!
 - 🏫 Currently, a Graduating Computer Engineering Student
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, and Programming
 - 🌱 I’m currently reviewing Python Programming and will start learning Power BI
 - 🌐 You can check my portfolio here: https://russellcaragay.github.io/portfolio-website/
 - 📫 You can reach me at caragayrussell@gmail.com 
