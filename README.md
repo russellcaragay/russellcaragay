@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @russellcaragay!
+- 👨‍💻 A Computer Engineer specializing in QA Engineering
+<!---
 - 🏫 A Computer Engineer
 - 👀 I’m interested in Data Analytics, and Web Development
 - 🌱 I’m currently reviewing Python Programming and will start learning Power BI
